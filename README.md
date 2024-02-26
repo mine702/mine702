@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hello,%20I'm%20MinGun%20🧑‍💻&fontSize=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hello,%20I'm%20MinGun%20🤔&fontSize=30&animation=twinkling)
 
 <!--
 **mine702/mine702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
