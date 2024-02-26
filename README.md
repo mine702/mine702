@@ -31,7 +31,7 @@
 </div>
 <br>
 
-![SANGJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjoleee&show_icons=true)
+![mine702's GitHub stats](https://github-readme-stats.vercel.app/api?username=mine702&show_icons=true)
 <br>
 
 
