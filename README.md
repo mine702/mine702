@@ -16,6 +16,25 @@
 
 </div>
 <br>
+
+## 🙋 About Me
+<p>
+🧑🏻‍💻 유저에게 좋은 경험을 선사하는 FE 개발자가 되기 위해 노력합니다.<br>
+💡 개발 과정에서 다양한 고민을 마주하는 것, 그리고 그 고민을 해결하는 것을 좋아해요.<br>
+👍 좋은 코드에 대한 고민에 더해서, 비즈니스적 임팩트까지 신경쓸 수 있는 개발자가 되고 싶어요!<br>
+🌱 <b>언제나 배우고, 나누고, 성장하고 싶습니다.</b>
+</p>
+
+<div>
+<a href="https://velog.io/@sjoleee_" target="_blank"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat"/></a> 
+<a href="https://www.sjoleee.info" target="_blank"><img src="https://img.shields.io/badge/resume-E4405F?style=flat"/></a>
+</div>
+<br>
+
+![SANGJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjoleee&show_icons=true)
+<br>
+
+
 <!--
 **mine702/mine702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
