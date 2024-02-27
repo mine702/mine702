@@ -54,7 +54,8 @@
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/WebSocket-FFFFFF?style=for-the-badge&logo=websocket&logoColor=black">
+        <img src="https://img.shields.io/badge/WebSocket-FFFFFF?style=for-the-badge&logo=websocket&logoColor=white">
+        <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
     </div><br>
 </div>
 <br>
