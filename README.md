@@ -74,19 +74,11 @@
 👍 사용자의 요구를 정확히 파악하고, 비즈니스 요구에 맞는 효율적인 백엔드 솔루션을 제공할 수 있는 개발자가 되고자 합니다.<br>
 🌱 <b>지속적으로 새로운 백엔드 기술을 배우고, 협업을 통해 더 나은 서비스를 만들어 나가고 싶습니다.</b>
 </p>
-
-
 <br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:kwonbe99@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="https://www.instagram.com/kwonbi_">
+    <a href="https://www.instagram.com/mine7020">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div><br>
