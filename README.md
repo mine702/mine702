@@ -43,19 +43,23 @@
         <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white">
         <img src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
-        <img src="https://img.shields.io/badge/DBeaver-FFC917.svg?&style=for-the-badge&logo=dbeaver&logoColor=black">
     </div>
     <!-- Version Control -->
     <p><strong>Version Control<strong><p>
     <div>
         <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+        <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
+        <img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black">
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/WebSocket-FFFFFF?style=for-the-badge&logo=websocket&logoColor=white">
         <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
     </div><br>
 </div>
 <br>
