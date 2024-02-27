@@ -33,6 +33,18 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
+    <!-- Development Tools -->
+    <p><strong>Development Tools<strong><p>
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white">
+        <img src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+        <img src="https://img.shields.io/badge/DBeaver-FFC917.svg?&style=for-the-badge&logo=dbeaver&logoColor=black">
+    <!-- Version Control -->
+    <p><strong>Version Control<strong><p>
+        <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white">
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
