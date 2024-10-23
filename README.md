@@ -78,6 +78,14 @@
 🌱 <b>지속적으로 새로운 백엔드 기술을 배우고, 협업을 통해 더 나은 서비스를 만들어 나가고 싶습니다.</b>
 </p>
 <br>
+<!-- Portfolio Link -->
+<div style="margin-top: 20px;">
+    <a href="https://mine702.github.io/my-portfolio/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white">
+    </a>
+</div>
+
+<br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
